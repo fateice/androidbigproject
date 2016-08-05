@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/home" />
+    </group>
+    <item android:title="@string/citySelect">
+        <menu>
+            <item
+                android:id="@+id/nav_city"
+                android:icon="@drawable/ic_menu_city"
+                android:title="@string/citySelect" />
+        </menu>
+    </item>
+    <item android:title="@string/myService" android:id="@+id/test">
+        <menu>
+            <item
+                android:id="@+id/nav_offten"
+                android:icon="@drawable/ic_menu_offten"
+                android:title="@string/often" />
+            <item
+                android:id="@+id/nav_star"
+                android:icon="@drawable/ic_menu_star"
+                android:title="@string/star" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/about" />
+        </menu>
+    </item>
+
+    <item android:title="@string/loginAndReg">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_menu_login"
+                android:title="@string/login" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="@string/logout" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_menu_exit"
+                android:title="@string/exit" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

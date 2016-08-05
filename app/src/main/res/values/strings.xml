@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">公交来啦</string>
+
+    <string name="home">首页</string>
+    <string name="often">常去</string>
+    <string name="star">收藏</string>
+    <string name="about">关于</string>
+    <string name="login">登录</string>
+    <string name="action_reg_in">注册</string>
+    <string name="logout">注销</string>
+    <string name="exit">退出程序</string>
+
+    <string name="citySelect">城市切换</string>
+    <string name="loginAndReg">登录注册</string>
+    <string name="myService">我的</string>
+
+    <string name="navigation_drawer_open">打开菜单</string>
+    <string name="navigation_drawer_close">关闭菜单</string>
+
+    <string name="action_settings">设置</string>
+    <string name="unlogin">未登录</string>
+    <string name="pls">请点击按钮登录</string>
+    <string name="title_activity_login">登录</string>
+    <string name="no_username_and_reg">没有账号？注册一个</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">邮箱格式错误</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">此内容必填</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_city_select">城市选择</string>
+    <string name="large_text">"请选择你的城市"</string>
+    <string name="title_activity_reg">注册</string>
+    <!-- Strings line -->
+    <string name="cityinput">城市</string>
+    <string name="lineinput">线路</string>
+    <string name="stationinput">站点</string>
+    <string name="lineserachbutton">查询</string>
+
+    <string name="linetext">路线查询</string>
+    <string name="stoptext">站点查询</string>
+    <string name="destext">起始地-目的地查询</string>
+
+    <!-- String Transfer -->
+    <string name="transferStartstat">起点</string>
+    <string name="transferEndstat">终点</string>
+    <string name="transferLike">偏好</string>
+
+    <!-- city selected-->
+    <string name="please_input_the_key">请输入关键词查询</string>
+
+    <!--star-->
+    <string name="star_content">收藏</string>
+
+
+</resources>
